@@ -1,0 +1,39 @@
+[0]
+
+
+[1]
+Hola! ¿Está libre el asiento?
+Hello! Is the seat free?
+[2]
+Oh, sí. Adelante.
+Oh yeah. Ahead.
+[3]
+¿Primero dia de universidad, sí? Yo soy Mariana.
+First day of college, yes? I am Mariana.
+[4]
+Un placer conocerte Mariana. Yo soy Amor
+A pleasure to meet you Mariana. I am Amor.
+[5]
+Mucho gusto, Amor. Tienes un nombre precioso.
+Nice to meet you, Love. You have a beautiful name.
+[6]
+Gracias.
+Thank you
+[7]
+¿Que hiciste este verano?
+What did you do this summer?
+[8]
+No mucho. Uno que otro viaje.
+Not much. One or the other trip.
+[9]
+Fantástico. ¿Donde fuiste?
+Fantastic. Where did you go?
+[10]
+Perú. Fue mágico.
+Peru. It was magical.
+[11]
+Ay estoy loca para visitar Pero. Oye, quieres almorzar conmigo después de la clase?
+Oh, I'm crazy to visit Pero. Hey, do you want to have lunch with me after class?
+[12]
+Dale.
+Go ahead.

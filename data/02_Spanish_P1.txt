@@ -1,0 +1,21 @@
+[0]
+
+
+[1]
+Hola! ¿Está libre el asiento?
+Hello! Is the seat free?
+[2]
+Oh, sí. Adelante.
+Oh yeah. Ahead.
+[3]
+¿Primero dia de universidad, sí? Yo soy Mariana.
+First day of college, yes? I am Mariana.
+[4]
+Un placer conocerte Mariana. Yo soy Amor
+A pleasure to meet you Mariana. I am Amor.
+[5]
+Mucho gusto, Amor. Tienes un nombre precioso.
+Nice to meet you, Love. You have a beautiful name.
+[6]
+Gracias.
+Thank you.

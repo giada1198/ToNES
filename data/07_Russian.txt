@@ -1,0 +1,48 @@
+[0]
+
+
+[1]
+Мы еще не открыты.
+We are not yet open.
+[2]
+доброе утро мадам. Я пришел на собеседование. Вы владелец этого бара?
+Good morning madam. I came for an interview. Are you the owner of this bar?
+[3]
+Я думала ми договорились на обед! Еще смотри какая темень на улице!
+I thought they agreed to dinner! Still, look at the darkness on the street!
+[4]
+извините что я опаздываю, но уже 9 вечерa
+I'm sorry that I'm late, but by 9 pm
+[5]
+Черт возми! Сколько Водки могла бы продать! Ах хрен сним. Заходите.
+Damn it all! How much Vodka could sell! Oh horseradish to take pictures. Come in.
+[6]
+Спасибо
+Thank you.
+[7]
+На здаровя. Ладно, расказите мне не много осебе.
+On zdarov. Okay, tell me not so much.
+[8]
+меня зовут Максим. Мне 35 лет. Я живу с моей матерью и c моей собакой. это мои два члена семьи. Я из Белоруссии. и Я думаю, что я лучший бармен.
+My name is Max. I am 35 years old. I live with my mother and my dog. these are my two family members. I am from Belarus. and I think I'm the best bartender.
+[9]
+Похоже что вы очень значительны в этом деле. Почему же ушли с прошлой работы?
+It seems that you are very significant in this matter. Why did you leave your last job?
+[10]
+они закрылись из-за плохих финансов. я надеюсь работать с тобой дольше
+they closed due to bad finances. I hope to work with you longer
+[11]
+Ни волунся синок! У моего бар самое лучшее управление фунда в целом Петербурге, 
+Do not fall into the blue guy! My bar has the best management of the foundation in whole Petersburg,
+[12]
+Мы никогда не обанкротимся. Мои муж следит за рублями а Я слежу  за копейками. Все идет как по маслу. Можешь начать завтра?
+and we will never go bankrupt. I follow the ruble and my husband keeps track of the kopecks. Everything goes like clockwork. Can you start tomorrow?
+[13]
+Отлично! ты отличный босс!
+Excellent! you're a great boss!
+[14]
+За здарове!
+Behind zdarov!
+[15]
+За здарове!
+Behind zdarov!

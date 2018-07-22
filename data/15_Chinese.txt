@@ -1,0 +1,48 @@
+[0]
+
+
+[1]
+大家好
+Hello everyone
+[2]
+太極師傅好！
+Master Tai Chi good!
+[3]
+太極師傅是教太極拳的嗎？
+Master Tai Chi is to teach Tai Chi Quan it?
+[4]
+沒錯！太極師傅很會打太極拳
+That's right! Master Tai Chi is very Da Tai Chi Quan.
+[5]
+你會打太極拳嗎？
+Do you beat Tai Chi Quan?
+[6]
+我只會打太極
+I can only Da Tai Chi.
+[7]
+注意課堂紀律！上課不要交頭接耳
+Pay attention to classroom discipline! Do not whisper in class.
+[8]
+我們錯了，太極師傅
+We are wrong, Master Tai Chi.
+[9]
+你知道太極最重要的是什麼嗎？
+Do you know what's most important about Tai Chi?
+[10]
+你是指太極還是打太極？
+Do you mean Tai Chi or Da Tai Chi?
+[11]
+我在講打太極拳
+I'm talking about Da Tai Chi Quan.
+[12]
+我不知道，太極師傅
+I do not know, Master Tai Chi.
+[13]
+打太極拳不能太急，跟著我唸一次
+Do not rush too much Da Tai Chi Quan, follow me once again.
+[14]
+打太極拳不能太急，要像太極師傅一樣
+Do not rush too much Da Tai Chi Quan. Be like Master Tai Chi.
+[15]
+沒錯！跟著我再把動作溫習一遍
+That's right! Follow me again to review the action again.
